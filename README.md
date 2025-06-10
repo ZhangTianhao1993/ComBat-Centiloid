@@ -52,6 +52,6 @@ Zhang Tianhao, Nie Binbin, Shan Baoci.
 ComBat-Centiloid: A Calibration-Free Method for Quantifying Centiloid Values in Amyloid PET Imaging.
 Brain Science Advances.
 ## Author
-Zhang Tianhao
-December 2, 2024
+Zhang Tianhao  
+December 2, 2024  
 thzhang@ihep.ac.cn
