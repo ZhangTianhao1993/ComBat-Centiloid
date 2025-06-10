@@ -20,6 +20,8 @@ This project provides a method to standardize amyloid PET imaging data across di
   - Column 4: Diagnostic status (`1` if MCI, `0` otherwise)  
 
 > ⚠️ Note: For stable performance of the ComBat algorithm, it is recommended that `n > 30` and that the dataset includes a balanced mix of cognitively normal (CN), mild cognitive impairment (MCI), and Alzheimer’s disease (AD) subjects.
+> 
+ You can find sample input data for testing in the TestData folder.
 
 ## Output Description
 
@@ -41,18 +43,15 @@ This project provides a method to standardize amyloid PET imaging data across di
 
 ```matlab
 [HCL, HRCL] = combat_centiloid(AV45_ADNI_SUVR, AV45_ADNI_Demo);
+```
 
-You can find sample input data for testing in the TestData folder.
-
-Citation
+## Citation
 If you use this code in your research, please cite the following paper:
 
 Zhang Tianhao, Nie Binbin, Shan Baoci.
 ComBat-Centiloid: A Calibration-Free Method for Quantifying Centiloid Values in Amyloid PET Imaging.
 Brain Science Advances.
-[Accepted / In press].
-
-Author
-Tianhao Zhang
-Date: December 2, 2024
-Email: zhangtianhao1993@gmail.com
+## Author
+Zhang Tianhao
+December 2, 2024
+thzhang@ihep.ac.cn
