@@ -41,3 +41,18 @@ This project provides a method to standardize amyloid PET imaging data across di
 
 ```matlab
 [HCL, HRCL] = combat_centiloid(AV45_ADNI_SUVR, AV45_ADNI_Demo);
+
+You can find sample input data for testing in the TestData folder.
+
+Citation
+If you use this code in your research, please cite the following paper:
+
+Zhang Tianhao, Nie Binbin, Shan Baoci.
+ComBat-Centiloid: A Calibration-Free Method for Quantifying Centiloid Values in Amyloid PET Imaging.
+Brain Science Advances.
+[Accepted / In press].
+
+Author
+Tianhao Zhang
+Date: December 2, 2024
+Email: zhangtianhao1993@gmail.com
