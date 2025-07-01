@@ -48,9 +48,7 @@ This project provides a method to standardize amyloid PET imaging data across di
 ## Citation
 If you use this code in your research, please cite the following paper:
 
-Zhang Tianhao, Nie Binbin, Shan Baoci.
-ComBat-Centiloid: A Calibration-Free Method for Quantifying Centiloid Values in Amyloid PET Imaging.
-Brain Science Advances. 2025
+Zhang T, Nie B, Shan B. ComBat-Centiloid: A Calibration-Free Method for Quantifying Centiloid Values in Amyloid PET Imaging. Brain Science Advances. 2025;11(2). doi:10.26599/BSA.2024.9050034
 ## Author
 Zhang Tianhao  
 December 2, 2024  
